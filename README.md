@@ -14,4 +14,5 @@ Plantilla modificada de landing page, para ejercicio de Estándares para el Desa
    
 3) **Dificultades a la hora de hacer este trabajo**
    
+
    Tuve dos dificultades, por un lado, un problema en el hosteo y por el otro, con el entendimiento de algunas partes del código de la plantilla. En el tema del hosting, me funcionó mejor Netlify que GitHub Pages, ya que en este último no me tomó las imágenes de los logos (el de la cooperativa y el de Creative Commons), ni en SVG, ni en PNG. Buscando y probando posibles soluciones, por ahora desistí en intentar hacerlo andar en GitHub Pages y me quedé con la opción de Netlify. Por el otro lado, el código de la plantilla original contiene Sass, que es un preprocesador de CSS, del cual conozco poco. Y también tiene varios archivos de JavaScript, del cual, tampoco conozco demasiado. Por lo tanto, en ese apartado, más allá de leer los archivos y ver las diferentes secciones, no toqué nada. Por ahora, entiendo que cumplen la función de darle un diseño estético (Sass) y darle interactividad (JavaScript).
