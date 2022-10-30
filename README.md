@@ -1,10 +1,7 @@
 # landing-page
-   Plantilla modificada de landing page.
-   
-   **Sitio hosteado:**<br>
-   [https://landing-page-tusl.netlify.app](https://landing-page-tusl.netlify.app)
+   Plantilla modificada de landing page. Acá se puede ver el [sitio en funcionamiento](https://landing-page-tusl.netlify.app).
 
-**Cómo hostear el sitio web**
+## **Cómo hostear el sitio web**
    
    Para hacer que el sitio sea público y funcional, se lo puede hostear a través de algún servicio gratuito como GitHub Pages o Netlify. 
    
