@@ -1,5 +1,5 @@
 # landing-page
-   Plantilla modificada de landing page. Acá se puede ver el [sitio en funcionamiento](https://landing-page-tusl.netlify.app).
+   Plantilla modificada de landing page. [Acá se puede ver el sitio](https://landing-page-tusl.netlify.app) en funcionamiento.
 
 ## **Cómo hostear el sitio web**
    
